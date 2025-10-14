@@ -31,7 +31,7 @@ npm install
 npm run dev</code></pre>
   <p>Check individual folders for project-specific instructions.</p>
 
-  <h2>🛠️ Tech Stack</h2>
+  <h2>🛠️ Tech Stack</h2>    
   <ul>
     <li>HTML5, CSS3, JavaScript (ES6+)</li>
     <li>Express, Ejs</li>
