@@ -1,5 +1,3 @@
-# Web Development Stuffs
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
